@@ -1,5 +1,13 @@
 # Expansion and Audit Log: Republic of Nicaragua
 
+## Release v1.0.2: Continental Prefix Hierarchy Implementation (Strategy 2 & 3)
+- **Date:** 2026-11-01
+- **Release Milestone:** Release v1.0.2
+- **Standardized Continental Slug:** Formally transitioned repository slug to `latam-us-ni-nicaragua-master-litigation` under the `GlobalRestitutionAlliance` organizational hierarchy, ensuring automatic alphabetical clustering of Latin American sovereign actions.
+- **Remote Origin URL:** Set remote origin to `https://github.com/GlobalRestitutionAlliance/latam-us-ni-nicaragua-master-litigation.git`.
+- **Global Profile Hub Integration:** Synchronized instrumentation metadata with the organization profile README hub at `GlobalRestitutionAlliance/GlobalRestitutionAlliance`.
+- **Integrity Baseline:** Preserved all 25 certified instruments (`NIC-001` through `NIC-025`) and the $250.00 Billion restitution pool with zero data divergence.
+
 ## Release v1.0.1: Master Continental Organization & ISO 3166-1 Alpha-2 Alignment
 - **Date:** 2026-11-01
 - **Release Milestone:** Release v1.0.1
