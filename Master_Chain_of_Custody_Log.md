@@ -21,6 +21,7 @@ All pleadings, evidentiary matrices, dashboards, agents, and procedural skill sp
 | **2026-11-01 04:45** | Dashboard & Dossier Draft | Crosswalk Dashboard (MD/DOCX) & Legal Dossier | Maintainer Council | `AUTHENTICATED` |
 | **2026-11-01 05:00** | Master Federal Complaint | Pleading Inoculation & Execution Drafts | Maintainer Council | `AUTHENTICATED` |
 | **2026-11-01 05:15** | SHA-256 Manifest Finalization | Repository-wide Hash Compilation | Maintainer Council | `AUTHENTICATED` |
+| **2026-11-01 23:45** | Release v1.0.1 Alignment | Continental Workspace & us-ni-nicaragua slug | Maintainer Council | `AUTHENTICATED` |
 
 ---
 

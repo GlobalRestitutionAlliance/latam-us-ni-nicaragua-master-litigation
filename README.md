@@ -1,11 +1,11 @@
 # United States – Nicaragua Master Restitution Litigation Framework
 
-[![Jurisdiction: Republic of Nicaragua](https://img.shields.io/badge/Jurisdiction-Republic%20of%20Nicaragua-blue.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Judgment: ICJ 1986 Reports 14](https://img.shields.io/badge/ICJ%20Judgment-27%20June%201986-green.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Enforcement: UN Charter Art. 94(2)](https://img.shields.io/badge/Enforcement-UN%20Charter%20Art.%2094(2)-orange.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Total Certified Claims: 25 Instruments](https://img.shields.io/badge/Certified%20Claims-25%20Instruments-success.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
-[![Valuation Pool: $250.00 Billion](https://img.shields.io/badge/Restitution%20Pool-%24250.00%20Billion-brightgreen.svg)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-[![Status: Production Active](https://img.shields.io/badge/Status-Production%20Active-blue.svg)](file:///W:/Legal/US_NICARAGUA/README.md)
+[![Jurisdiction: Republic of Nicaragua](https://img.shields.io/badge/Jurisdiction-Republic%20of%20Nicaragua-blue.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
+[![Judgment: ICJ 1986 Reports 14](https://img.shields.io/badge/ICJ%20Judgment-27%20June%201986-green.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
+[![Enforcement: UN Charter Art. 94(2)](https://img.shields.io/badge/Enforcement-UN%20Charter%20Art.%2094(2)-orange.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
+[![Total Certified Claims: 25 Instruments](https://img.shields.io/badge/Certified%20Claims-25%20Instruments-success.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
+[![Valuation Pool: $250.00 Billion](https://img.shields.io/badge/Restitution%20Pool-%24250.00%20Billion-brightgreen.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
+[![Status: Production Active](https://img.shields.io/badge/Status-Production%20Active-blue.svg)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/README.md)
 
 ---
 
@@ -27,7 +27,7 @@ Anchored by the landmark Judgment of the **International Court of Justice (ICJ)*
 ## 2. Master Repository Architecture
 
 ```
-W:/Legal/US_NICARAGUA/
+W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/
 ├── 00_Master_Knowledge_Base/
 │   ├── Master_Nicaragua_Restitution_Crosswalk_Matrix.csv  # 25 Instruments ($250.00B Pool)
 │   ├── Master_Nicaragua_Restitution_Crosswalk_Dashboard.md # Markdown Evidentiary Dashboard
@@ -78,12 +78,12 @@ W:/Legal/US_NICARAGUA/
 
 ## 4. Primary Evidentiary Artifacts
 
-- [Master Restitution Crosswalk Dashboard (Markdown)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
-- [Master Restitution Crosswalk Matrix (CSV)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
-- [Master Restitution Crosswalk Dashboard (Word DOCX)](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.docx)
-- [Executive Legal Dossier](file:///W:/Legal/US_NICARAGUA/00_Master_Knowledge_Base/executive_summary_dossier.md)
-- [Master Federal Court Complaint](file:///W:/Legal/US_NICARAGUA/01_Pleadings_and_Complaints/master_federal_court_complaint_nicaragua_v1.md)
-- [Cryptographic Verification Ledger](file:///W:/Legal/US_NICARAGUA/VERIFICATION_KEYS/sha256_manifest.txt)
+- [Master Restitution Crosswalk Dashboard (Markdown)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.md)
+- [Master Restitution Crosswalk Matrix (CSV)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Matrix.csv)
+- [Master Restitution Crosswalk Dashboard (Word DOCX)](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/Master_Nicaragua_Restitution_Crosswalk_Dashboard.docx)
+- [Executive Legal Dossier](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/00_Master_Knowledge_Base/executive_summary_dossier.md)
+- [Master Federal Court Complaint](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/01_Pleadings_and_Complaints/master_federal_court_complaint_nicaragua_v1.md)
+- [Cryptographic Verification Ledger](file:///W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/VERIFICATION_KEYS/sha256_manifest.txt)
 
 ---
 

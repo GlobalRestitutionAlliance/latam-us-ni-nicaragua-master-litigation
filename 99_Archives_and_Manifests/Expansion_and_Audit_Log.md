@@ -1,5 +1,14 @@
 # Expansion and Audit Log: Republic of Nicaragua
 
+## Release v1.0.1: Master Continental Organization & ISO 3166-1 Alpha-2 Alignment
+- **Date:** 2026-11-01
+- **Release Milestone:** Release v1.0.1
+- **Namespace Migration:** Formally transitioned repository slug to `us-ni-nicaragua-master-litigation` under the global `GlobalRestitutionAlliance` organization.
+- **Continental Workspace Relocation:** Local workspace mapped into the hemispheric continental taxonomy at `W:/Legal/LATIN_AMERICA/US_NI_NICARAGUA/`.
+- **Remote Origin URL:** Set remote origin to `https://github.com/GlobalRestitutionAlliance/us-ni-nicaragua-master-litigation.git`.
+- **Organization Topics:** Tagged repository with topics `latin-america`, `sovereign-restitution`, `iso2-ni`, and `litigation-framework`.
+- **Integrity Baseline:** Preserved all 25 certified instruments (`NIC-001` through `NIC-025`) and the $250.00 Billion restitution pool with zero data divergence.
+
 ## Campaign 01: Foundational Framework & 172-Year Continuum Launch
 - **Date:** 2026-11-01
 - **Campaign Milestone:** Campaign 01 Inception (v1.0.0)
