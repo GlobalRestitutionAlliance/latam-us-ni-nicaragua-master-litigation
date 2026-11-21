@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Nicaragua
+  iso: NI
+  block: 2
+  range: [96,190]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "NI-V-0096"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0097"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0098"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0099"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0100"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0101"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0102"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0103"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0104"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0105"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0106"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0107"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0108"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0109"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0110"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0111"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0112"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0113"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0114"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0115"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0116"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0117"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0118"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0119"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0120"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0121"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0122"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0123"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0124"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0125"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0126"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0127"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0128"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0129"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0130"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0131"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0132"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0133"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0134"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0135"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0136"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0137"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0138"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0139"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0140"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0141"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0142"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0143"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0144"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0145"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0146"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0147"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0148"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0149"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0150"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0151"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0152"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0153"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0154"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0155"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0156"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0157"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0158"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0159"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0160"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0161"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0162"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0163"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0164"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0165"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0166"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0167"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0168"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0169"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0170"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0171"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0172"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0173"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0174"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0175"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0176"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0177"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0178"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0179"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0180"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0181"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0182"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0183"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0184"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0185"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0186"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0187"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0188"
+      anchor: "Contra war and ICJ Nicaragua v. US (1986) judgment context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0189"
+      anchor: "Economic sanctions and sovereignty disputes"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "NI-V-0190"
+      anchor: "US military interventions and occupation era (early 20th century)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
