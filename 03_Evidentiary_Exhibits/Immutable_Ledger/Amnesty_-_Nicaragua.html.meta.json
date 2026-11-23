@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/nicaragua/",
+  "final_url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/nicaragua/",
+  "title": "Amnesty - Nicaragua",
+  "fetched_at": "2026-11-23T14:28:26.994788Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 101084,
+  "sha256": "4c6556a49e5ba4acf1b0f77b61096b57d7f66f014275918b2a2cf511358b7d1d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
